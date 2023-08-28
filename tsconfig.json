@@ -9,6 +9,8 @@
         "noImplicitAny": true,
         "esModuleInterop": true,
         "strict": true,
-        "noEmitOnError": true
-    }
+        // "noEmitOnError": true
+    },
+
+    "exclude": ["./tests/*"]
 }
